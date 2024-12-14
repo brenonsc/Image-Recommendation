@@ -14,7 +14,6 @@ Este projeto utiliza aprendizado profundo para construir um sistema de recomenda
   Gera embeddings das imagens para cálculo de similaridade.  
 - **Sistema de recomendação:**  
   Recomendação baseada em similaridade usando o índice Annoy.  
-<br>
 
 ## Resultados
 
